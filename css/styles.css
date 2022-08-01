@@ -1,0 +1,110 @@
+.selida{
+
+width:720px;
+height:877px;
+color:blue;
+
+}
+
+.selida2{
+
+width:720px;
+height:877px;
+
+}
+
+.leyko{
+  color:white;
+  padding:7px 0;
+}
+
+.epikefalida{
+text-align:center;
+margin-top:2px;
+}
+
+.anazitisi{
+  padding-top:20px;
+}
+
+
+.newEgr{
+  margin-top:25px;
+}
+
+.afm{
+  width:40%;
+  margin:auto;
+}
+
+
+
+
+.mple{
+  color:blue;
+
+}
+
+
+.pinakas{
+  margin: auto;
+  border:1px solid blue;
+  width:80%;
+  height: 3%;
+
+}
+
+table,td,tr{
+  border:1px solid blue;
+  border-collapse: collapse;
+  text-align:center;
+
+}
+
+.grammi{
+  line-height: 0px;
+}
+
+
+.onomatep{
+  line-height: 10px;
+}
+
+
+.keimeno, .ypografes, .oroi{
+  width:85%;
+  margin:auto;
+}
+
+
+
+
+.hmerominia{
+  text-align:right;
+  width:70%;
+}
+
+.oroi_pagias{
+  text-align:center;
+}
+li,p{
+  font-size:80%;
+}
+
+
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.deksia{
+  text-align:right;
+}
