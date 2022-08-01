@@ -1,5 +1,5 @@
 # Pagies
-Printing bank order forms
+Printing bank order forms and Calculation of invoice value
 
 You can try the project [here](https://yfantidis.net/pagies/). (AFM: 123456789)
 
