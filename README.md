@@ -17,6 +17,10 @@ This repository contains the source code for the "Έκτυπωση Παγιών 
 
 This platform has been used by the EASTH organization for the IACS 2022 project. It has facilitated over 3500 prints and contributed to the success of the project. You can find more information about EASTH at [Platform Website](https://www.yfantidis.net/pagies/).
 
+## Database Statistics
+
+The platform currently holds a database with over 4500 registered entries, making it a robust repository of fixed order-related information.
+
 
 ## Getting Started
 
